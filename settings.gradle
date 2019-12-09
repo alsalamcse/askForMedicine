@@ -1,0 +1,2 @@
+include ':app', ':manger', ':mylibrary', ':client'
+rootProject.name='askForMedicine'
