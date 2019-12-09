@@ -2,6 +2,6 @@ package jumana.aslan.client;
 
 public class D {
     public D() {
-        System.out.println("koko");
+        System.out.println("hi");
     }
 }
