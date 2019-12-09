@@ -1,2 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="jumana.aslan.mylibrary" />
+    package="jumana.aslan.mylibrary">
+
+    <application>
+        <activity android:name=".signUp"></activity>
+        <activity android:name=".signIn" />
+        <activity android:name=".wellcom" />
+    </application>
+
+</manifest>
